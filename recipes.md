@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Peanut Butter Cup Toast](#peanut-butter-cup-toast)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -116,7 +117,7 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 
-### Peanut butter cup toast
+### Peanut Butter Cup Toast
 
 Ingredients:
 - 2 pieces of bread

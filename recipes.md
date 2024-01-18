@@ -81,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- 5 lbs of lean beef
 
 Instructions:
 1. Preheat grill to medium-high heat.

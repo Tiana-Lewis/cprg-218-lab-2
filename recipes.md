@@ -59,6 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 1 jar of mayonnaise
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -101,7 +102,7 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 1000 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -113,3 +114,19 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Peanut butter cup toast
+
+Ingredients:
+- 2 pieces of bread
+- Your choice of hazelnut spread
+- Peanut butter (or any nut butter of your choice)
+
+Instructions:
+1. Put toast in the toaster to desired toastyness.
+2. Spread chocolate hazelnut spread on one side of one slice of bread.
+3. Spread peanut butter spread on one side of the other slice of bread.
+4. Combine both slices of bread, spread sides together.
+5. Seperate toast slices.
+6. Enjoy your toast!
+
